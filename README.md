@@ -20,11 +20,12 @@ that help decision makers understand performance and profitability.
 ---
 
 ## Key Features
-- Sales analysis dashboard
-- Profit analysis dashboard
-- Year over year comparison
-- Interactive filters by region category and sub category
-- KPI cards for quick insights
+- Structured Sales Analysis and Profit Analysis dashboards
+- Page navigation implemented using Power BI bookmarks and buttons
+- Back button functionality for seamless movement between dashboard pages
+- Year over year comparison of sales and profit performance
+- Interactive slicers for region category and sub category analysis
+- KPI cards for quick business level insights
 
 ---
 
